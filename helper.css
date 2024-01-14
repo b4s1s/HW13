@@ -1,0 +1,14 @@
+* {
+	box-sizing: border-box;
+	width: 1200px;
+}
+
+body {
+	background-color: #394047;
+}
+
+.wrapper {
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
