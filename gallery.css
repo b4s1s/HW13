@@ -1,10 +1,15 @@
-.home-page {
+.gallery-img img {
 	border: 5px solid grey;
 	background-color: #fff;
 	display: flex;
-	flex-wrap: wrap;
 	flex-direction: column;
+	justify-items: center;
 	border-radius: 20px;
 	width: 315px;
 }
 
+.gallery-img {
+	display: flex;
+	justify-content: center;
+	gap: 10px;
+}
